@@ -10,10 +10,10 @@
     cursor: pointer;
     width: 16px;
     height: 16px;
-    background: url('/VAADIN/widgetsets/AppWidgetset/resetbutton-vaadin8/resetbutton-default.svg') no-repeat center center;
+    background: url('resetbutton-default.svg') no-repeat center center;
 }
 
 .resetbuttonfortextfield-resetbutton:hover {
-    background-image: url('/VAADIN/widgetsets/AppWidgetset/resetbutton-vaadin8/resetbutton-hover.svg');
+    background-image: url('resetbutton-hover.svg');
     cursor: pointer;
 }
