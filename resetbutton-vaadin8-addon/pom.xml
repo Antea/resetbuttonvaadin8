@@ -221,4 +221,12 @@
 		</profile>
 	</profiles>
 
+	<distributionManagement>
+		<repository>
+			<id>github</id>
+			<name>GitHub antea Apache Maven Packages</name>
+			<url>https://maven.pkg.github.com/antea/resetbuttonvaadin8</url>
+		</repository>
+	</distributionManagement>
+
 </project>
